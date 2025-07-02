@@ -5,8 +5,8 @@ import random
 import sys
 import re
 
-CLIENT_ID = "d66ff73b9af44163950f237143428e6a"
-CLIENT_SECRET = "9ba4c07b8db04a79bf92fbb45100f4d5"
+CLIENT_ID = "your_client_id"
+CLIENT_SECRET = "your_client_secret"
 REDIRECT_URI = "http://127.0.0.1:8888/callback"
 
 # Define the scopes (permissions you're asking the user to allow)
