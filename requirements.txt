@@ -1,0 +1,4 @@
+Libraries used in my CS50 Final project:
+    1. Spotipy library --version 2.25.1
+    2. Black library --version 25.1.0
+    3. Pytest Framework --version 8.4.1
